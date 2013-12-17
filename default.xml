@@ -55,7 +55,7 @@
   <project path="device/sample" name="CyanogenMod/android_device_sample" revision="stable/cm-11.0" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" revision="stable/cm-11.0" groups="pdk" />
-  <project path="external/android-clat" name="CyanogenMod/android_external_android-clat" revision="stable/cm-11.0" revision="stable/cm-11.0" />
+  <project path="external/android-clat" name="CyanogenMod/android_external_android-clat" revision="stable/cm-11.0" />
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" revision="stable/cm-11.0" />
   <project path="external/ant-glob" name="CyanogenMod/android_external_ant-glob" revision="stable/cm-11.0" />
   <project path="external/antlr" name="CyanogenMod/android_external_antlr" revision="stable/cm-11.0" />
