@@ -326,9 +326,9 @@
   <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" revision="stable/cm-11.0" groups="qcom" />
   <project path="hardware/qcom/camera" name="CyanogenMod/android_hardware_qcom_camera" revision="stable/cm-11.0" groups="qcom" />
   <project path="hardware/qcom/display-legacy" name="androidarmv6/android_hardware_qcom_display-legacy" groups="qcom" />
-  <project path="hardware/qcom/gps" name="androidarmv6/android_hardware_qcom_gps" revision="stable/cm-11.0" groups="qcom" />
+  <project path="hardware/qcom/gps" name="androidarmv6/android_hardware_qcom_gps" groups="qcom" />
   <project path="hardware/qcom/keymaster" name="CyanogenMod/android_hardware_qcom_keymaster" revision="stable/cm-11.0" groups="qcom" />
-  <project path="hardware/qcom/media-legacy" name="androidarmv6/android_hardware_qcom_media-legacy" revision="stable/cm-11.0" />
+  <project path="hardware/qcom/media-legacy" name="androidarmv6/android_hardware_qcom_media-legacy" />
   <project path="hardware/qcom/msm8960" name="CyanogenMod/android_hardware_qcom_msm8960" revision="stable/cm-11.0" groups="qcom_msm8960" />
   <project path="hardware/qcom/msm8x74" name="CyanogenMod/android_hardware_qcom_msm8x74" revision="stable/cm-11.0" groups="qcom_msm8x74" />
   <project path="hardware/qcom/power" name="CyanogenMod/android_hardware_qcom_power" revision="stable/cm-11.0" />
