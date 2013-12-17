@@ -29,7 +29,7 @@
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
 <!--  <project path="art" name="CyanogenMod/android_art" /> -->
-  <project path="bionic" name="androidarmv6/android_bionic" revision="58a398f785ca601bf1173ac25f955d68bfce91dd"groups="pdk" />
+  <project path="bionic" name="androidarmv6/android_bionic" revision="58a398f785ca601bf1173ac25f955d68bfce91dd" groups="pdk" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
   <project path="bootable/recovery" name="androidarmv6/android_bootable_recovery" />
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.4_r1.2" groups="cts" />
