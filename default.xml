@@ -199,7 +199,7 @@
   <project path="external/libyuv" name="CyanogenMod/android_external_libyuv" revision="stable/cm-11.0" groups="libyuv" />
   <project path="external/linux-tools-perf" name="CyanogenMod/android_external_linux-tools-perf" revision="stable/cm-11.0" />
   <project path="external/littlemock" name="CyanogenMod/android_external_littlemock" revision="stable/cm-11.0" />
-  <project path="external/llvm" name="androidarmv6/android_external_llvm" groups="pdk" revision="stable/cm-11.0" />
+  <project path="external/llvm" name="androidarmv6/android_external_llvm" groups="pdk" />
   <project path="external/lzma" name="platform/external/lzma" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="external/lsof" name="CyanogenMod/android_external_lsof" revision="stable/cm-11.0" />
   <project path="external/lzo" name="CyanogenMod/android_external_lzo" revision="stable/cm-11.0" />
