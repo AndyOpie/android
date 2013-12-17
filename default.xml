@@ -16,7 +16,7 @@
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
-  <default revision="refs/heads/stable\/cm-11.0"
+  <default revision="refs/heads/cm-11.0"
            remote="github"
            sync-c="true"
            sync-j="4" />
@@ -27,10 +27,10 @@
 
   <project path="android" name="skinbark/android" />
 
-  <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
+  <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" revision="stable/cm-11.0" groups="pdk" />
 <!--  <project path="art" name="CyanogenMod/android_art" /> -->
   <project path="bionic" name="androidarmv6/android_bionic" revision="58a398f785ca601bf1173ac25f955d68bfce91dd" groups="pdk" />
-  <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
+  <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" revision="stable/cm-11.0" />
   <project path="bootable/recovery" name="androidarmv6/android_bootable_recovery" />
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.4_r1.2" groups="cts" />
   <project path="dalvik" name="androidarmv6/android_dalvik" />
