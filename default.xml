@@ -321,7 +321,7 @@
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" revision="stable/cm-11.0" />
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" revision="stable/cm-11.0" groups="invensense" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" revision="stable/cm-11.0" groups="pdk" />
-  <project path="hardware/libhardware_legacy" name="androidarmv6/android_hardware_libhardware_legacy" revision="18fc094c0ed41851be3d746423c6695dd28d48e1" groups="pdk" />
+  <project path="hardware/libhardware_legacy" name="androidarmv6/android_hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" revision="stable/cm-11.0" groups="qcom" />
   <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" revision="stable/cm-11.0" groups="qcom" />
   <project path="hardware/qcom/camera" name="CyanogenMod/android_hardware_qcom_camera" revision="stable/cm-11.0" groups="qcom" />
